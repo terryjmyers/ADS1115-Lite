@@ -1,0 +1,13 @@
+{
+  "name": "ADS1115_lite by Terry Myers",
+  "keywords": "ADS1115",
+  "description": "A lite library that makes interfacing TI's ADS1115 ADC simple.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/terryjmyers/ADS1115-Lite.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
