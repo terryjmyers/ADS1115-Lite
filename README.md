@@ -2,7 +2,7 @@
 
 ADS1115 lite library - Adapted from adafruit ADS1015/ADS1115 library
 
-	This library is stripped down version with bug fixes from the adafruit ADS1015/ADS1115 library in order to save as much space as possible
+This library is stripped down version with bug fixes from the adafruit ADS1015/ADS1115 library in order to save as much space as possible
 		1. No explicit "Read ADC" functions exist to save space.  Simply set your mux manually, trigger a conversion manually, and read the value manually.  See the example program
 		2. ADS1015 functionality removed to save space.  Note that this library should work for the ADS1015, the only difference is the sample rate constants.
 		3. Continuous Conversion removed
